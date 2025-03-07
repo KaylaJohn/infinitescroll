@@ -1,1 +1,1 @@
-# Infinite Scroll
+# Infinite Scroll Project
